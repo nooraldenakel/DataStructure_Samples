@@ -1,3 +1,5 @@
+package linkList
+
 class DoubleLinkList<E> {
     private var size = 0
     private var head: Node<E>? = null
